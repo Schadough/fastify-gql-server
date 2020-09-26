@@ -17,5 +17,6 @@ To start the development server:
 Key Libraries:  
 
 * [NestJS](https://docs.nestjs.com/)
+* [Fastify](https://www.fastify.io/docs/latest/)
 * [TypeGraphQL](https://typegraphql.com/docs/introduction.html)
 * [TypeORM](https://typeorm.io/#/)
